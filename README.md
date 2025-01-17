@@ -1,2 +1,10 @@
 # Math-for-ML
-A comprehensive guide to the essential mathematical concepts required for Machine Learning, including linear algebra, calculus, probability, and optimization, with practical Python examples and visualizations.
+# Math for Machine Learning 📚🤖
+
+Welcome to **Math for Machine Learning**, a beginner-friendly guide to the mathematical foundations needed to succeed in ML.  
+
+## Topics Covered:
+- **Linear Algebra**: Vectors, Matrices, Eigenvalues, Decompositions  
+- **Calculus**: Derivatives, Gradients, Chain Rule  
+- **Probability & Statistics**: Random Variables, Distributions, Bayesian Inference  
+- **Optimization**: Gradient Descent, Convex Optimization 
